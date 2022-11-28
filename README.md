@@ -1,17 +1,8 @@
-# Nome do meu projeto
+Projeto Alura Newsletter
 
-Rápida descrição do objetivo de fazer esse projeto
+Nesse projeto tive a oportunidade de aprender como usar o Tailwind e a sua praticidade. Também tive o primeiro contato com animações SVG.
 
-| :placard: Vitrine.Dev |     |
-| -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+Você pode acessar o projeto completo em: 
 
-<!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![image](https://user-images.githubusercontent.com/95857175/204388446-88fec2ff-3c0e-4923-9136-4f96d0b8f19e.png#vitrinedev)
 
-## Detalhes do projeto
-
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
